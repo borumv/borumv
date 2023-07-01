@@ -4,11 +4,10 @@
 
 I'm a **Full-Stack developer** with a strong focus on backend development. **Java** is my primary programming language, and I have been continuously expanding my skills and knowledge in the field. I gladly take part in new and exciting challenges💪. Feel free to reach out!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
-[![borumv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy)](https://github.com/borumv)
-[![borumv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borumv&layout=compact&theme=buefy)](https://github.com/borumv)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borumv&layout=compact&theme=buefy)](https://github.com/borumv)
 <!---
 borumv/borumv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

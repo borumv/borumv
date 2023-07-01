@@ -5,22 +5,6 @@
 I'm a **Full-Stack developer** with a strong focus on backend development. **Java** is my primary programming language, and I have been continuously expanding my skills and knowledge in the field. I gladly take part in new and exciting challenges💪. Feel free to reach out!
 
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
 
 

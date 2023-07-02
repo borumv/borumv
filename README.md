@@ -1,13 +1,13 @@
-<h1 align="center">(っ◔◡◔)っ Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Boris</a> 
+<h1 align="center">(っ◔◡◔)っ Hi there, I'm <a href="https://github.com/borumv" target="_blank">Boris</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=1000&color=F7B924&center=true&vCenter=true&repeat=false&width=435&lines=✨+Backend/Full-Stack+Developer+✨" alt="Typing SVG" /></a></div>
 
 I'm a **Full-Stack developer** with a strong focus on backend development. **Java** is my primary programming language, and I have been continuously expanding my skills and knowledge in the field. I gladly take part in new and exciting challenges💪. Feel free to reach out!
 
 <!-- Блок иконок Front-end -->
-<div>
-  <h1> Front-End</h1>
-  <!-- JavaScript -->
+<h3 align="center">⚡ Technologies ⚡</h3>
+<div align="center">
+   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -22,10 +22,6 @@ I'm a **Full-Stack developer** with a strong focus on backend development. **Jav
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-</div>
-
-<!-- Блок иконок Back-end -->
-<div>
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -35,11 +31,6 @@ I'm a **Full-Stack developer** with a strong focus on backend development. **Jav
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-</div>
-
-<!-- Блок иконок других технологий -->
-<div>
-
 
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -71,7 +62,7 @@ I'm a **Full-Stack developer** with a strong focus on backend development. **Jav
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borumv&show_icons=true&theme=transparent)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=falltroy)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@falltroy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borumv&exclude_repo=zero-to-mastery-ml,zero-to-mastery-ml,handson-ml2,recipeDb)
 <!--START_SECTION:waka-->

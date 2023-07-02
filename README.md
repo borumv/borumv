@@ -64,6 +64,79 @@ I'm a **Full-Stack developer** with a strong focus on backend development. **Jav
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=borumv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Boris's GitHub Stats" />
 </a>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-462-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 129.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 840 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                272 commits         █████████░░░░░░░░░░░░░░░░   36.96 % 
+🌆 Daytime                383 commits         █████████████░░░░░░░░░░░░   52.04 % 
+🌃 Evening                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Tuesday                  122 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Friday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Java                     1 hr 15 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+IntelliJ                 1 hr 15 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cqrs-authorization       1 hr 15 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     11 repos            █████████████████░░░░░░░░   68.75 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/borumv/borumv/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/07/2023 18:38:33 UTC
 <!--END_SECTION:waka-->
 
 

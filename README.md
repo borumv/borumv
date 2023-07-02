@@ -5,6 +5,7 @@
 I'm a **Full-Stack developer** with a strong focus on backend development. **Java** is my primary programming language, and I have been continuously expanding my skills and knowledge in the field. I gladly take part in new and exciting challenges💪. Feel free to reach out!
 
 <!-- Блок иконок Front-end -->
+##
 <h3 align="center">⚡ Technologies ⚡</h3>
 <div align="center">
    <!-- JavaScript -->
@@ -58,13 +59,16 @@ I'm a **Full-Stack developer** with a strong focus on backend development. **Jav
   </a>
 </div>
 
+##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borumv&show_icons=true&theme=transparent)
+<h3 align="center">📊 Stats 📊 </h3>
 
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@falltroy)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borumv&exclude_repo=zero-to-mastery-ml,zero-to-mastery-ml,handson-ml2,recipeDb)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borumv&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=borumv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

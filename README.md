@@ -64,9 +64,9 @@ I'm a **Full-Stack developer** with a strong focus on backend development. **Jav
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=borumv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Boris's GitHub Stats" />
 </a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-462-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-464-blue)
 
 **🐱 My GitHub Data** 
 
@@ -107,16 +107,20 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     1 hr 15 mins        █████████████████████████   100.00 % 
+Java                     1 hr 29 mins        ███████████████████░░░░░░   74.32 % 
+GitIgnore file           31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 
 🔥 Editors: 
-IntelliJ                 1 hr 15 mins        █████████████████████████   100.00 % 
+IntelliJ                 2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cqrs-authorization       1 hr 15 mins        █████████████████████████   100.00 % 
+cqrs-authorization       1 hr 18 mins        ████████████████░░░░░░░░░   64.94 % 
+SImpleRestService        31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+AlgorithmsYa             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Admin                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -136,7 +140,7 @@ PLpgSQL                  1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/borumv/borumv/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2023 18:38:33 UTC
+ Last Updated on 03/07/2023 18:40:09 UTC
 <!--END_SECTION:waka-->
 
 

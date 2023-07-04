@@ -64,9 +64,8 @@ I'm a **Full-Stack developer** with a strong focus on backend development. **Jav
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=borumv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Boris's GitHub Stats" />
 </a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-464-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-614-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,41 +98,6 @@ Friday                   86 commits          ███░░░░░░░░�
 Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
 Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Java                     1 hr 29 mins        ███████████████████░░░░░░   74.32 % 
-GitIgnore file           31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-
-🔥 Editors: 
-IntelliJ                 2 hrs 1 min         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-cqrs-authorization       1 hr 18 mins        ████████████████░░░░░░░░░   64.94 % 
-SImpleRestService        31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-AlgorithmsYa             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Admin                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-
-💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     11 repos            █████████████████░░░░░░░░   68.75 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-PLpgSQL                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
 
 **Timeline**
 
